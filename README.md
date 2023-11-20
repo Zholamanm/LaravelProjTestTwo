@@ -13,5 +13,5 @@ This project shows base methods and classes such as:
 10. Resources for taking the data of the tables from database that used by model to the controllers
 11. Filter for filtering information using url
 12. Seeders for generating information for database
-    In this project also used jwt_token for accessing data only by users that have this token after authentication
+In this project also used jwt_token for accessing data only by users that have this token after authentication
     Database is constructed with tables posts that have foreign key as categories, which shows relationships one to many and tags table with post_tag table which shows many to many interaction with table posts.
